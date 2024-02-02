@@ -24,7 +24,7 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a Backend developer student studying at AlX academy. I enjoy creating unique and simple solutions to complex problems. I am passionate about creating inclusive and accessible tech for all. I am currently learning about backend development and I am excited to see where this journey takes me.";
+  "I'm a Backend developer student studying at AlX academy.I enjoy creating unique and simple solutions to complex problems. ";
 
 /**
  * List of some of skills or technologies you work on, are learning,
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  " I am passionate about creating inclusive and accessible tech for all. I am currently learning about backend development and I am excited to see where this journey takes me.";
 
 const About = () => {
   return (
